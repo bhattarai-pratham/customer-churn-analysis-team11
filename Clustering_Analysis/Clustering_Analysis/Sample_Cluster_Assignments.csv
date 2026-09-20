@@ -1,0 +1,21 @@
+gender,SeniorCitizen,Dependents,tenure,PhoneService,MultipleLines,InternetService,Contract,MonthlyCharges,Churn,Cluster,Cluster_Label
+Female,0,No,1,No,No,DSL,Month-to-month,25,Yes,1,Newer / Developing Customers
+Male,0,No,41,Yes,No,DSL,One year,25,No,1,Newer / Developing Customers
+Female,0,Yes,52,Yes,No,DSL,Month-to-month,19,No,1,Newer / Developing Customers
+Female,0,No,1,Yes,No,DSL,One year,76,Yes,1,Newer / Developing Customers
+Male,0,No,67,Yes,No,Fiber optic,Month-to-month,51,No,0,Loyal Established Customers
+Female,1,No,68,Yes,Yes,Fiber optic,Month-to-month,90,Yes,2,Senior High-Risk Customers
+Female,0,Yes,23,Yes,Yes,Fiber optic,Month-to-month,77,No,1,Newer / Developing Customers
+Male,0,Yes,72,Yes,No,DSL,Month-to-month,72,No,0,Loyal Established Customers
+Male,0,No,70,Yes,Yes,Fiber optic,Month-to-month,104,Yes,0,Loyal Established Customers
+Male,0,No,1,Yes,No,DSL,One year,19,Yes,1,Newer / Developing Customers
+Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,1,Newer / Developing Customers
+Male,0,Yes,34,Yes,No,DSL,Two year,84,No,0,Loyal Established Customers
+Male,1,Yes,28,Yes,Yes,Fiber optic,One year,51,No,2,Senior High-Risk Customers
+Female,1,No,18,Yes,Yes,Fiber optic,Month-to-month,85,Yes,2,Senior High-Risk Customers
+Female,0,No,15,Yes,No,Fiber optic,Month-to-month,20,No,1,Newer / Developing Customers
+Female,1,No,11,Yes,Yes,Fiber optic,Two year,95,Yes,2,Senior High-Risk Customers
+Male,0,No,11,Yes,No,DSL,One year,54,Yes,1,Newer / Developing Customers
+Male,0,Yes,1,Yes,Yes,Fiber optic,Two year,70,Yes,1,Newer / Developing Customers
+Female,0,Yes,37,Yes,No,DSL,Month-to-month,89,No,0,Loyal Established Customers
+Male,0,Yes,22,Yes,No,Fiber optic,Month-to-month,89,Yes,1,Newer / Developing Customers

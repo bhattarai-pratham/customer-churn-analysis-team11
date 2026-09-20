@@ -1,0 +1,4 @@
+Cluster,Cluster_Label,Customers,Average_Tenure,Average_Monthly_Charges,Churn_Rate
+0,Loyal Established Customers,2446,56.08,77.13,13.53
+1,Newer / Developing Customers,3165,14.89,52.14,31.41
+2,Senior High-Risk Customers,1130,33.42,79.8,41.24

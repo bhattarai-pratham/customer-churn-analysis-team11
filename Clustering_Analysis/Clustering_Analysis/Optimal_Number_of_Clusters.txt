@@ -1,0 +1,7 @@
+OPTIMAL NUMBER OF CLUSTERS
+==========================
+
+Method: Elbow Method
+Selected optimal number of clusters: K = 3
+
+The Elbow Method was evaluated using K values from 1 to 10. The resulting inertia values were examined to determine the point at which the reduction in within-cluster sum of squares began to decrease progressively. Based on the resulting elbow plot, K = 3 was selected for the final K-Means clustering model.

@@ -1,0 +1,24 @@
+CUSTOMER CLUSTER LABELS
+=======================
+
+Cluster 0: Loyal Established Customers
+----------------------------------------
+Customers: 2446
+Average tenure: 56.08
+Average monthly charges: 77.13
+Churn rate: 13.53%
+
+Cluster 1: Newer / Developing Customers
+----------------------------------------
+Customers: 3165
+Average tenure: 14.89
+Average monthly charges: 52.14
+Churn rate: 31.41%
+
+Cluster 2: Senior High-Risk Customers
+----------------------------------------
+Customers: 1130
+Average tenure: 33.42
+Average monthly charges: 79.80
+Churn rate: 41.24%
+
