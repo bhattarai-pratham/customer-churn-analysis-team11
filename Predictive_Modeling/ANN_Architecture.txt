@@ -1,0 +1,43 @@
+
+ARTIFICIAL NEURAL NETWORK ARCHITECTURE
+======================================
+
+Purpose:
+Customer churn prediction.
+
+Input Layer:
+10 processed input features.
+
+Hidden Layer 1:
+32 neurons.
+Activation function: ReLU.
+
+Hidden Layer 2:
+16 neurons.
+Activation function: ReLU.
+
+Output Layer:
+1 neuron.
+Binary classification.
+
+Optimizer:
+Adam.
+
+Maximum Iterations:
+300.
+
+Early Stopping:
+Enabled.
+
+Validation Fraction:
+20%.
+
+Learning Rate:
+0.001.
+
+Random State:
+42.
+
+Prediction Classes:
+0 = No Churn
+1 = Churn
